@@ -161,11 +161,3 @@ relay-alassatech/
 **Ready to run.** No additional setup needed beyond Node/Python/Postgres.
 
 For questions about the architecture or design decisions, see `PROJECT_CONTEXT.md` or `.github/copilot-instructions.md`.
-
-## Deliverables checklist
-
-- [x] 4-agent pipeline UI, numbered 01–04, with idle/active/done states and one signature animation
-- [x] Chatbot widget (floating button, panel, connected to `/chat`)
-- [x] FastAPI backend with `GET /agents` and `POST /chat`
-- [x] Postgres persistence for chat history
-- [ ] Screen recording (record locally once both servers are running)
