@@ -146,18 +146,3 @@ relay-alassatech/
 │
 └── README.md (this file)
 ```
-
-## Evaluation Checklist (Per Assignment)
-
-✅ **UI/UX & Visual Design (35%)** — Custom color palette, intentional spacing, numbered agents, clear status states  
-✅ **Agent Pipeline Clarity (20%)** — 4 agents visible, correct order, signature amber pulse animation  
-✅ **Chatbot (15%)** — Opens/closes, answers sample questions, integrated styling  
-✅ **Code Quality (15%)** — No dead code, no console errors, components well-organized  
-✅ **Backend (10%)** — Simple FastAPI endpoints, hardcoded data, rule-based chatbot  
-✅ **Documentation & Demo (5%)** — This README + demo video showing pipeline and chatbot in action
-
----
-
-**Ready to run.** No additional setup needed beyond Node/Python/Postgres.
-
-For questions about the architecture or design decisions, see `PROJECT_CONTEXT.md` or `.github/copilot-instructions.md`.
